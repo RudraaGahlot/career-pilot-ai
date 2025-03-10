@@ -22,10 +22,6 @@ import { features } from "@/data/features";
 import { howItWorks } from "@/data/howItWorks";
 import { testimonial } from "@/data/testimonial";
 import { faqs } from "@/data/faqs";
-// import { features } from "@/data/features";
-// import { testimonial } from "@/data/testimonial";
-// import { faqs } from "@/data/faqs";
-// import { howItWorks } from "@/data/howItWorks";
 
 export default function LandingPage() {
   return (
@@ -194,7 +190,7 @@ export default function LandingPage() {
         <div className="mx-auto py-24 gradient rounded-lg">
           <div className="flex flex-col items-center justify-center space-y-4 text-center max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold tracking-tighter text-primary-foreground sm:text-4xl md:text-5xl">
-              Ready to Accelzzerate Your Career?
+              Ready to Accelerate Your Career?
             </h2>
             <p className="mx-auto max-w-[600px] text-primary-foreground/80 md:text-xl">
               Join thousands of professionals who are advancing their careers
